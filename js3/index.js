@@ -4,7 +4,6 @@ var btn = document.getElementById('btn')
 var tr = document.getElementById('tr')
 var sArr ;
 
-
 (function(){
     if(localStorage.getItem('data')== null) 
     sArr=[]
